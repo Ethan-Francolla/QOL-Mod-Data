@@ -1,8 +1,10 @@
 {
   "names": {
-    "TheeUnwanted": "&6SussyImposter"
+    "TheeUnwanted": "&6SussyImposter",
+    "SuperNaturalMobs": "&0SuperSmellyMobs"
   },
   "ranks": {
-    "TheeUnwanted": "&6[MVP&0++&6]"
+    "TheeUnwanted": "&6[MVP&0++&6]",
+    "SuperNaturalMob": "&6[Super&0++&6]"
   }
 }
