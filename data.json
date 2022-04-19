@@ -1,6 +1,6 @@
 {
     "version": "1.0.0",
-	"disabled": false,
+    "disabled": false,
     "blacklist": [
         "123456789"
      ]
