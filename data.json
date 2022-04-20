@@ -1,7 +1,7 @@
 {
     "version": "1.0.0",
     "disabled": true,
-    "blacklist": [
-        "123456789"
+    "whitelist": [
+        "76e84853c1407692012fd60edd6d503c105050e15806f83afa0240d3fc916bc1"
      ]
 }
